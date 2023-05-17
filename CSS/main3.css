@@ -1,0 +1,103 @@
+body{
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+.navbar-menyu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.item1{
+    display: inline-block;
+    padding: 10px 10px;
+}
+.item1 a{
+    color: black;
+    text-decoration: none;
+    border-left: deepskyblue solid 4px;
+    padding-left: 10px;
+}
+.item2{
+    display: inline-block;
+    padding: 10px 10px;
+}
+.item2 a{
+    color: black;
+    text-decoration: none;
+    border-left: aqua solid 4px;
+    padding-left: 10px;
+}
+.item3{
+    display: inline-block;
+    padding: 10px 10px;
+}
+.item3 a{
+    color: black;
+    text-decoration: none;
+    border-left: orange solid 4px;
+    padding-left: 10px;
+}
+.item4 a{
+    color: black;
+    text-decoration: none;
+    border-left: yellow solid 4px;
+    padding-left: 10px;
+}
+.item5{
+    display: inline-block;
+    padding: 10px 10px;
+}
+.item5 a{
+    color: black;
+    text-decoration: none;
+    border-left: orchid solid 4px;
+    padding-left: 10px;
+}
+.item6{
+    display: inline-block;
+    padding: 10px 10px;
+}.item6 a{
+     color: black;
+     text-decoration: none;
+    border-left: red solid 4px;
+    padding-left: 10px;
+ }
+ .item1 a:hover{
+     color: dodgerblue;
+ }
+.item2 a:hover{
+     color: aqua;
+ }
+.item3 a:hover{
+     color: orange;
+ }
+.item4 a:hover{
+     color: yellow;
+ }
+.item5 a:hover{
+     color: orchid;
+ }
+.item6 a:hover{
+     color: red;
+ }
+.item{
+    display: inline-block;
+    padding: 10px 10px;
+}
+.item a{
+    color: grey;
+    text-decoration: none;
+}
+.item a:hover{
+    color: black;
+}
+ .rasm1{
+    margin-right: 600px;
+     margin-bottom: -20px;
+ }

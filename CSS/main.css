@@ -1,0 +1,212 @@
+body {
+    background-color: #c8e9f0;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #808080;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 25px 10px;
+}
+.navbar-item a{
+    text-decoration: none;
+    color: #808080;
+}
+.flex-box{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+.flex-item{
+    padding: 10px 15px;
+}
+.flex-item p{
+    background-color: white;
+    padding: 20px;
+}
+.navbar-item a:hover{
+    color: #34c9cb;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: white;
+    padding:15px;
+    box-sizing: border-box;
+}
+.btn{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+    border-bottom: 6px solid #248f91;
+    background-color: #34c9cb;
+    border-radius: 8px;
+    transition: all 1s ease-in;
+}
+.btn:active{
+    border-bottom-width: 3px ;
+    margin-top: 3px;
+}
+.btn:focus{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn:hover{
+    border-radius: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: 150px;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.fixed{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border-radius:10px;
+    border: 1px solid #248f91;
+    position: fixed;
+    left: 30px;
+    bottom: 50px;
+    text-decoration: none;
+    color: black;
+    line-height: 40px;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform: rotate(180deg);
+}
+.fixed:hover{
+    background-color: blue;
+}
+.flex-item{
+    position: relative;
+    z-index: -1;
+
+}
+.badge{
+    background-color: #248f91;
+    color: #ffffff;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    padding: 0 5px;
+    position: absolute;
+    top: 26px;
+    right: 15px;
+}
+.sale{
+    background-color: #248f91;
+    color: #ffffff;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    padding: 0 5px;
+    position: absolute;
+    top: 26px;
+    left: 15px;
+
+}
+.fixed1{
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border-radius:50px;
+    border: 1px solid #248f91;
+    position: fixed;
+    right: 30px;
+    bottom: 50px;
+    text-decoration: none;
+    color: black;
+    line-height: 40px;
+    background-image: url("../rasmlar/qiz.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.fixed1:hover{
+    background-image: url("../rasmlar/qiz.png");
+    background-position: left;
+    background-size: 170px ;
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 12px;
+    background-color: white;
+}
+.right{
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 180px;
+    position: fixed;
+    padding: 14px 16px;
+    box-sizing: border-box;
+    width: 300px;
+    height: 180px;
+    border:2px solid black;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 20px;
+}
+.fixed2{
+    border: 1px solid yellow;
+    width: 250px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.navbar-item:after{
+    content: '';
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center center;
+/*    vertical-align: middle;
+    margin-left: 5px;*/
+    position: absolute;
+    top: 40%;
+    right:5px;
+
+}
+.navbar-item{
+    position: relative;
+    padding-right: 25px;
+}
+.drop-menu{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    background-color: white;
+    z-index: 1;
+    display: none;
+}
+.navbar-item:hover .drop-menu{
+    display: block;
+}

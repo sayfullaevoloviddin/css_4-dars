@@ -1,0 +1,45 @@
+.a{
+    position: relative;
+    margin: 0 auto;
+    border: 2px solid lightgrey;
+    width: 400px;
+    height: 720px;
+    background-color:white;
+    background-image: url("../rasmlar/cam.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px 360px;
+}
+.d{
+    margin-left: 10px;
+    text-align: left;
+    display: inline-block;
+    margin-top: 400px;
+}
+.c{
+    border: 2px solid greenyellow;
+    color: white;
+    background-color: greenyellow;
+    width: 70px;margin-top: -36px;
+    margin-left: 100px;
+}
+.badge{
+    border: 2px solid orange;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 50px;
+    color: white;
+    position: absolute;
+}
+.e{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.f{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.g{
+    margin-left: 150px;
+    font-size: 20px;
+}

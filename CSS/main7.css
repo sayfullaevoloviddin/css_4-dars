@@ -1,0 +1,304 @@
+
+.text-block{
+    width: 900px;
+    margin: 0 auto;
+}
+.text-block-2{
+    width: 900px;
+    margin: 0 auto;
+}
+.wrap{
+    display: inline-block;
+    box-sizing: border-box;
+    clear: both;
+
+}
+.wrap1{
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.btn{
+    width: 100px;
+    background-color: mediumseagreen;
+    border: 2px solid mediumseagreen;
+    border-radius: 4px;
+    text-align: center;
+    margin: 15px 25px;
+    padding: 14px 16px;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+.btn2{
+    width: 100px;
+    background-color: limegreen;
+    border: 2px solid limegreen;
+    border-radius: 4px;
+    text-align: center;
+    margin: 15px 25px;
+    padding: 14px 16px;
+}
+.btn2 a{
+    text-decoration: none;
+    color: white;
+}
+.btn3{
+    width: 100px;
+    background-color: seagreen;
+    border: 2px solid seagreen;
+    border-radius: 4px;
+    text-align: center;
+    margin: 15px 25px;
+    padding: 14px 16px;
+}
+.btn3 a{
+    text-decoration: none;
+    color: white;
+}
+.btn4{
+    width: 100px;
+    background-color: mediumblue;
+    border: 2px solid mediumblue;
+    border-radius: 4px;
+    text-align: center;
+    margin: 15px 25px;
+    padding: 14px 16px;
+}
+.btn4 a{
+    text-decoration: none;
+    color: white;
+}
+.btn5{
+    width: 100px;
+    background-color: lightblue;
+    border: 2px solid lightblue;
+    border-radius:4px;
+    text-align: center;
+    margin: 15px 25px;
+    padding: 14px 16px;
+}
+.btn5 a{
+    text-decoration: none;
+    color: white;
+}
+.btn6{
+    width: 100px;
+    background-color: steelblue;
+    border: 2px solid steelblue;
+    border-radius: 4px;
+    text-align: center;
+    margin: 15px 25px;
+    padding: 14px 16px;
+}
+.btn6 a {
+    text-decoration: none;
+    color: white;
+}
+.btn7{
+    width: 100px;
+    background-color: lightgray;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn7 a {
+    text-decoration: none;
+    color: white;
+}
+.btn8{
+    width: 100px;
+    background-color: lightgray;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn8 a {
+    text-decoration: none;
+    color: white;
+}
+.btn9{
+    width: 100px;
+    background-color: lightgray;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn9 a {
+    text-decoration: none;
+    color: white;
+}
+.btn10{
+    width: 100px;
+    background-color: lightgray;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn10 a {
+    text-decoration: none;
+    color: white;
+}
+.btn11{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn11 a {
+    text-decoration: none;
+    color: lightgrey;
+}
+.btn12{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn12 a {
+    text-decoration: none;
+    color: lightgrey;
+}
+.btn13 {
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn13 a {
+    text-decoration: none;
+    color: lightgrey;
+}
+.btn14{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn14 a {
+    text-decoration: none;
+    color: lightgrey;
+}
+.btn15{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn15 a {
+    text-decoration: none;
+    color: black;
+}
+.btn16{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn16 a {
+    text-decoration: none;
+    color: black;
+}
+.btn17{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn17 a {
+    text-decoration: none;
+    color: black;
+}
+.btn18{
+    width: 100px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn18 a {
+    text-decoration: none;
+    color: black;
+}
+.btn19{
+    width: 100px;
+    background-color: white;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn19 a {
+    text-decoration: none;
+    color: black;
+}
+.btn20{
+    width: 100px;
+    background-color: white;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn20 a {
+    text-decoration: none;
+    color: black;
+}
+.btn21{
+    width: 100px;
+    background-color: white;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn21 a {
+    text-decoration: none;
+    color: black;
+}
+.btn22{
+    width: 100px;
+    background-color: white;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn22 a {
+    text-decoration: none;
+    color: black;
+}
+.btn23{
+    width: 100px;
+    background-color: darkblue;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+    margin:22px;
+    padding: 14px 16px;
+}
+.btn23 a {
+    text-decoration: none;
+    color: black;
+}
+
+
